@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.3.0-Setup.exe",
-  "size": 36718997,
-  "sha256": "2f64df2d7557d8285b08f26a6dc676cbf3170f0b0b1d13c27dd6434236dc3f93",
-  "notes": "Beute-Fenster: Häuser, Container, Autos und Rucksäcke zeigen ihren Inhalt, du nimmst einzeln oder alles. Neues Hauptmenü über einer lebendigen Straße, neue Schrift und neues Aussehen für alle Fenster und die Anzeige. Neuigkeiten: Nach jedem Update erscheinen die Änderungen einmal, alle Versionen stehen unter Neuigkeiten im Hauptmenü. Einstellungen jetzt auch im Pausemenü. Bluten: Zombiebisse können Blutungen auslösen, ein Verband stoppt sie. Zustände stehen gut sichtbar unter den Balken, der Bildrand pulsiert rot. Wer in der Basis stirbt, findet seinen Rucksack dort wieder, auch nach dem Neustart. Schüsse, Zombies und alle anderen Geräusche in der Welt sind jetzt hörbar. Hintergrundmusik entfernt, schlichte Menü-Klicks wie in Elmiral, kein Ton mehr beim Wechseln der Hotbar."
+  "version": "0.4.0",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.0-Setup.exe",
+  "size": 36782847,
+  "sha256": "e00f05f7eabef68a61d31fa786415f76f9a6df44c34a356e4b3f7bd74eb32ab7",
+  "notes": "Aussteigen aus dem Auto klappt jetzt immer: Das Spiel sucht eine freie Stelle neben dem Auto, und man steigt nicht mehr aus Versehen sofort wieder ein. Alles, was man durchsuchen kann, hat eine schwebende Lupe. Der Suchpunkt liegt vor der Hauswand und ist leichter zu erreichen. Neue Grafik: besseres Licht mit Schatten in Ecken und unter Autos, Leuchten bei Lampen und Feuer, Boden mit Struktur statt flacher Farbe, Dreck- und Ascheflecken. Stadt: Vorgärten mit Rasen, Zäunen, Bäumen und Blumenkästen, Betonflächen mit Gerümpel in der Innenstadt. Basis: kompakter, Lagerfeuer mit Feuerschein, Plane über der Werkbank, Autowrack, Kisten, Reifen und Bäume rund um den Zaun. Menüs, Fenster und Anzeige in rostigem Metall statt schlichter Kästen."
 }
