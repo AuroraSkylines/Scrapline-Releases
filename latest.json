@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.2.0-Setup.exe",
-  "size": 35316264,
-  "sha256": "9dea279c9e2acb601a09cd5871e16f938414e168f3e6e697b591b08a545cb991",
-  "notes": "Neue Figuren und Zombies statt der Blockfiguren, mit Laufen, Zielen, Nahkampf-Schwung und Waffe in der Hand. Kein Pixel-Look mehr: volle Auflösung, größere Häuser und Straßen. Gebäude werden durchsichtig, wenn du dahinter stehst. Die Basis wächst sichtbar: Stufe 1 ist ein Holzzaun voller Löcher, dann geschlossen, Palisade, Metallwand, Lampen und Ecktürme. Neues Inventar mit Icons: Hotbar mit 5 Plätzen (1-5, Mausrad, Steuerkreuz), Ausrüstung für Kopf, Körper und Tasche. Taschen in 4 Größen (bis 22 Plätze), Helme und Westen schützen vor Bissen. Sound: Schüsse, Zombies, Schritte, Treffer, Auto-Motor, Wind, Grillen und Menügeräusche."
+  "version": "0.2.1",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.2.1-Setup.exe",
+  "size": 42785293,
+  "sha256": "fa0e2b6bbdac116ce3cbc7c236ec524d8e2cebb5886bb9d81d35da3b057a9d8c",
+  "notes": "Absturz beim Anklicken von Gegenständen im Inventar behoben. Figuren größer, Autos und Häuser etwas kleiner, damit alles zusammenpasst. Alle Sounds neu: echte Aufnahmen für Schüsse, Zombies, Schläge, Essen, Trinken, Motor, Wind und Grillen. Ruhige Menü-Geräusche (Papier, Leder, Stoff) auf allen Knöpfen. Musik: eigenes Stück im Hauptmenü, ein ruhiges am Tag und ein düsteres in der Nacht."
 }
