@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.5.0-Setup.exe",
-  "size": 36799319,
-  "sha256": "4a9d91e5cf793b5ae07b1232cd945d639767e324b8bec8aec3147be6beae8822",
-  "notes": "Controller: Alle Menüs, das Inventar, das Lager und das Beute-Fenster lassen sich jetzt komplett mit dem Controller bedienen (A wählt, B zurück, Steuerkreuz bewegt). Minikarte oben rechts und große Karte (M oder Steuerkreuz hoch): Ausgang bzw. Tor, Autos, noch nicht durchsuchte Orte und alle Mitspieler. Grafik-Einstellungen: FPS-Limit, Schatten-Qualität und Licht-Effekte an oder aus. Neu: Totzone für den Lauf-Stick. Die Werkbank in der Basis ist kleiner."
+  "version": "0.6.0",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.6.0-Setup.exe",
+  "size": 36834691,
+  "sha256": "ad09b6d76cc8c47bccd89459aec77127bdf3b4319e67089bd93d64b790d92e7c",
+  "notes": "Inventar: Gegenstände mit der Maus per Drag & Drop verschieben (auch ins Lager, in Beute und auf die Ausrüstung). Rechtsklick benutzt oder legt an. Tooltips: Maus über einem Gegenstand oder mit dem Controller darauf zeigt Name, Werte und Dauer. Alle Fenster haben jetzt dieselbe feste Größe, nichts springt mehr in der Größe. Controller: Nach dem Looten bleibt die Auswahl im Fenster. Hotbar auf LB / RB, Y nimmt alle Beute. Popup, wenn ein Controller verbunden oder getrennt wird. Überall werden jetzt die passenden Tasten- und Controller-Symbole angezeigt. Neue Waffensounds: echte 9-mm-Pistole und 20-Gauge-Pumpgun, mit eigenen Nachlade-Geräuschen. Verband, Essen und Trinken brauchen jetzt etwas Zeit (Fortschrittsbalken, du gehst dabei langsamer). Nahkampf: Rohr, Axt und Fäuste treffen Zombies jetzt zuverlässig, auch leicht seitlich. Die Taschenlampe geht beim Laufen nicht mehr aus und flackert nicht mehr im Boden. Mitspieler sehen deine Lampe. Minikarte und große Karte sind jetzt richtig gedreht: oben auf dem Bildschirm ist oben auf der Karte. Stadt und Basis haben einen Rand, niemand fällt mehr von der Karte. Autos haben vier Sitze. Mit F oder Y wechselst du den Platz, alle im Auto fahren mit in die Stadt und zurück. Animierte Ladebildschirme beim Weg in die Stadt und zurück, und ein Nachthimmel beim Schlafen. Koop: Geht jemand in die Stadt, bekommen die anderen unten rechts eine Einladung mit Ton. J oder Steuerkreuz runter: mitgehen, N oder Steuerkreuz rechts: ablehnen. Die Werkbank in der Basis ist jetzt ein echter Werktisch statt einer großen Kiste unter einer Plane."
 }
