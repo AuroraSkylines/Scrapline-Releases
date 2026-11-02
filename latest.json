@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.0-Setup.exe",
-  "size": 36782847,
-  "sha256": "e00f05f7eabef68a61d31fa786415f76f9a6df44c34a356e4b3f7bd74eb32ab7",
-  "notes": "Aussteigen aus dem Auto klappt jetzt immer: Das Spiel sucht eine freie Stelle neben dem Auto, und man steigt nicht mehr aus Versehen sofort wieder ein. Alles, was man durchsuchen kann, hat eine schwebende Lupe. Der Suchpunkt liegt vor der Hauswand und ist leichter zu erreichen. Neue Grafik: besseres Licht mit Schatten in Ecken und unter Autos, Leuchten bei Lampen und Feuer, Boden mit Struktur statt flacher Farbe, Dreck- und Ascheflecken. Stadt: Vorgärten mit Rasen, Zäunen, Bäumen und Blumenkästen, Betonflächen mit Gerümpel in der Innenstadt. Basis: kompakter, Lagerfeuer mit Feuerschein, Plane über der Werkbank, Autowrack, Kisten, Reifen und Bäume rund um den Zaun. Menüs, Fenster und Anzeige in rostigem Metall statt schlichter Kästen."
+  "version": "0.4.1",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.1-Setup.exe",
+  "size": 36788615,
+  "sha256": "f7b810c6c015bd263c978d042b717340adc15ec3a0ed29481aac970d3e4b5fbf",
+  "notes": "Neue Straßen in der Stadt: Asphalt mit verblasster Mittellinie und schmalerem Gehweg statt der alten Straßenteile. Kamera weiter herausgezoomt, damit nicht mehr alles riesig wirkt und man mehr von der Umgebung sieht. Neues Esc-Menü mit großen Knöpfen: Weiter, Einstellungen, Steuerung, Freunde einladen, Speichern und zum Hauptmenü. Der rote Bildrand beim Bluten ist etwas schwächer."
 }
