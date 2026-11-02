@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.1.0-Setup.exe",
-  "size": 34560053,
-  "sha256": "5b11795a4b977dbc096d4e3e541706f45529b23d55ecac51be8fd22c717f8b9b",
-  "notes": "Erste spielbare Version: Basis, zufällige Stadt, Zombies, Überleben. Basis ausbauen (5 Stufen), Lager, Werkbank, Bett und Bauplätze für Regentonne, Garten und Wachturm. Jeder Ausflug führt in eine neue Stadt: Häuser, Läden, Apotheke, Polizei und Werkstätten durchsuchen. Freies Zielen mit Maus oder rechtem Stick, Nah- und Fernkampf, Autos fahren und Zombies überfahren. Hunger, Durst, Ausdauer, Schlaf und Infektionen. Vor der Nacht zurück sein! Koop mit bis zu 4 Spielern über Steam-Lobby oder IP. Updates direkt im Hauptmenü."
+  "version": "0.2.0",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.2.0-Setup.exe",
+  "size": 35316264,
+  "sha256": "9dea279c9e2acb601a09cd5871e16f938414e168f3e6e697b591b08a545cb991",
+  "notes": "Neue Figuren und Zombies statt der Blockfiguren, mit Laufen, Zielen, Nahkampf-Schwung und Waffe in der Hand. Kein Pixel-Look mehr: volle Auflösung, größere Häuser und Straßen. Gebäude werden durchsichtig, wenn du dahinter stehst. Die Basis wächst sichtbar: Stufe 1 ist ein Holzzaun voller Löcher, dann geschlossen, Palisade, Metallwand, Lampen und Ecktürme. Neues Inventar mit Icons: Hotbar mit 5 Plätzen (1-5, Mausrad, Steuerkreuz), Ausrüstung für Kopf, Körper und Tasche. Taschen in 4 Größen (bis 22 Plätze), Helme und Westen schützen vor Bissen. Sound: Schüsse, Zombies, Schritte, Treffer, Auto-Motor, Wind, Grillen und Menügeräusche."
 }
