@@ -1,7 +1,7 @@
 {
-  "version": "0.2.1",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.2.1-Setup.exe",
-  "size": 42785293,
-  "sha256": "fa0e2b6bbdac116ce3cbc7c236ec524d8e2cebb5886bb9d81d35da3b057a9d8c",
-  "notes": "Absturz beim Anklicken von Gegenständen im Inventar behoben. Figuren größer, Autos und Häuser etwas kleiner, damit alles zusammenpasst. Alle Sounds neu: echte Aufnahmen für Schüsse, Zombies, Schläge, Essen, Trinken, Motor, Wind und Grillen. Ruhige Menü-Geräusche (Papier, Leder, Stoff) auf allen Knöpfen. Musik: eigenes Stück im Hauptmenü, ein ruhiges am Tag und ein düsteres in der Nacht."
+  "version": "0.3.0",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.3.0-Setup.exe",
+  "size": 36718997,
+  "sha256": "2f64df2d7557d8285b08f26a6dc676cbf3170f0b0b1d13c27dd6434236dc3f93",
+  "notes": "Beute-Fenster: Häuser, Container, Autos und Rucksäcke zeigen ihren Inhalt, du nimmst einzeln oder alles. Neues Hauptmenü über einer lebendigen Straße, neue Schrift und neues Aussehen für alle Fenster und die Anzeige. Neuigkeiten: Nach jedem Update erscheinen die Änderungen einmal, alle Versionen stehen unter Neuigkeiten im Hauptmenü. Einstellungen jetzt auch im Pausemenü. Bluten: Zombiebisse können Blutungen auslösen, ein Verband stoppt sie. Zustände stehen gut sichtbar unter den Balken, der Bildrand pulsiert rot. Wer in der Basis stirbt, findet seinen Rucksack dort wieder, auch nach dem Neustart. Schüsse, Zombies und alle anderen Geräusche in der Welt sind jetzt hörbar. Hintergrundmusik entfernt, schlichte Menü-Klicks wie in Elmiral, kein Ton mehr beim Wechseln der Hotbar."
 }
