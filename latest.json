@@ -1,7 +1,7 @@
 {
-  "version": "0.4.2",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.2-Setup.exe",
-  "size": 36789130,
-  "sha256": "e5b3101ebfc582f676b4953921e691b2d165dcd148c52a9de337ee98165a611a",
-  "notes": "Werkbank, Plane, Zelt, Kisten, Fässer, Lagerfeuer und Garten in der Basis passen jetzt in der Größe zur Figur."
+  "version": "0.4.3",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.3-Setup.exe",
+  "size": 36791091,
+  "sha256": "d58d0290548d2b3177bb56fbb81c09f79d50c0d2684721f08f24a08da2247553",
+  "notes": "Alle Größen neu abgestimmt: Jedes Modell hat jetzt eine feste Zielgröße passend zur Figur. Figuren sind größer, Häuser und Autos kleiner, Möbel, Zäune, Bäume und Laternen passen dazu. Die Stadt ist dichter: schmalere Straßen, Häuser näher beieinander."
 }
