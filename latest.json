@@ -1,7 +1,7 @@
 {
-  "version": "0.4.3",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.3-Setup.exe",
-  "size": 36791091,
-  "sha256": "d58d0290548d2b3177bb56fbb81c09f79d50c0d2684721f08f24a08da2247553",
-  "notes": "Alle Größen neu abgestimmt: Jedes Modell hat jetzt eine feste Zielgröße passend zur Figur. Figuren sind größer, Häuser und Autos kleiner, Möbel, Zäune, Bäume und Laternen passen dazu. Die Stadt ist dichter: schmalere Straßen, Häuser näher beieinander."
+  "version": "0.5.0",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.5.0-Setup.exe",
+  "size": 36799319,
+  "sha256": "4a9d91e5cf793b5ae07b1232cd945d639767e324b8bec8aec3147be6beae8822",
+  "notes": "Controller: Alle Menüs, das Inventar, das Lager und das Beute-Fenster lassen sich jetzt komplett mit dem Controller bedienen (A wählt, B zurück, Steuerkreuz bewegt). Minikarte oben rechts und große Karte (M oder Steuerkreuz hoch): Ausgang bzw. Tor, Autos, noch nicht durchsuchte Orte und alle Mitspieler. Grafik-Einstellungen: FPS-Limit, Schatten-Qualität und Licht-Effekte an oder aus. Neu: Totzone für den Lauf-Stick. Die Werkbank in der Basis ist kleiner."
 }
