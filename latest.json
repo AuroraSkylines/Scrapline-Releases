@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
-  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.1-Setup.exe",
-  "size": 36788615,
-  "sha256": "f7b810c6c015bd263c978d042b717340adc15ec3a0ed29481aac970d3e4b5fbf",
-  "notes": "Neue Straßen in der Stadt: Asphalt mit verblasster Mittellinie und schmalerem Gehweg statt der alten Straßenteile. Kamera weiter herausgezoomt, damit nicht mehr alles riesig wirkt und man mehr von der Umgebung sieht. Neues Esc-Menü mit großen Knöpfen: Weiter, Einstellungen, Steuerung, Freunde einladen, Speichern und zum Hauptmenü. Der rote Bildrand beim Bluten ist etwas schwächer."
+  "version": "0.4.2",
+  "url": "https://raw.githubusercontent.com/AuroraSkylines/Scrapline-Releases/main/Scrapline-0.4.2-Setup.exe",
+  "size": 36789130,
+  "sha256": "e5b3101ebfc582f676b4953921e691b2d165dcd148c52a9de337ee98165a611a",
+  "notes": "Werkbank, Plane, Zelt, Kisten, Fässer, Lagerfeuer und Garten in der Basis passen jetzt in der Größe zur Figur."
 }
